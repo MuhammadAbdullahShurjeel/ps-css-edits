@@ -1,12 +1,12 @@
-# css Changes for QBCore Scripts - NoPixel Inspired
+# CSS Changes for QBCore, PS, and TnJ Development Scripts.
 
 Installation Guide For All Scripts Here!
 
-* https://github.com/tnj-development/tnj-notify will be updated 
+* https://github.com/tnj-development/tnj-notify
 * https://github.com/Project-Sloth/progressbar
 * https://github.com/qbcore-framework/qb-doorlock
 
-# ps-notify (The colors are not 100% accurate!)
+# tnj-notify (The colors are not 100% accurate!)
 
 ![image](https://user-images.githubusercontent.com/76920136/168729052-cb669845-0dfd-4aae-b1b5-5260affa4702.png)
 
