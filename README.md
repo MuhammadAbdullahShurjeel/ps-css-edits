@@ -1,30 +1,34 @@
 # CSS Changes for QBCore, PS, and TnJ Development Scripts.
 
-Installation Guide For All Scripts Here!
+## Support me on Ko-Fi!
+### - xViperAG (OuroborosRP)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/xviperag)
+
+## Installation Guide For All Scripts Here!
 
 * https://github.com/tnj-development/tnj-notify
 * https://github.com/Project-Sloth/progressbar
 * https://github.com/qbcore-framework/qb-doorlock
 
-# tnj-notify (The colors are not 100% accurate!)
+## tnj-notify (The colors are not 100% accurate!)
 
 ![image](https://user-images.githubusercontent.com/76920136/168729052-cb669845-0dfd-4aae-b1b5-5260affa4702.png)
 
-# progressbar (The colors are not 100% accurate!)
+## progressbar (The colors are not 100% accurate!)
 
 ![image](https://i.imgur.com/09nqjt4.jpeg)
 
-# qb-doorlock
+## qb-doorlock
 
 * Ensure that you go into qb-doorlock/config.lua and set Config.ChangeColor to true.
 
-## Locked
+### Locked
 ![image](https://i.imgur.com/kP3I2FM.png)
 
-## Unlocked
+### Unlocked
 ![image](https://i.imgur.com/x61ISru.png)
 
-# Drawtext 
+## Drawtext 
 If you want to look more accurate remove border-radius: 0.2em; from .text
 
 Images 
